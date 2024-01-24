@@ -54,7 +54,7 @@ section{
 }
 
 body {
-    background-image: url("images/dark.png");
+    background-image: url("dark.png");
     background-position: center;
     background-size: cover;
 }
